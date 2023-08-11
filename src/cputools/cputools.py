@@ -280,4 +280,4 @@ def main():
         cpursc.print_spaced_cpustr()
 
 if __name__ == '__main__':
-	main()
+    main()
